@@ -1,4 +1,4 @@
-### ✨ Developer | Serbia, ZR ✨
+### ✨ Developer | Serbia ✨
 
 Several years experience in: PHP, Java, Node.js, C++, Redis, MongoDB, MySQL, PostgreeSQL. I enjoy doing it as a little side project to help those who need it.
 
