@@ -13,5 +13,5 @@ If you need a Developer then you know what to do.
 </a>
 
 <a href="https://twitter.com/mvnRazorni">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/telegram.svg" />
+  <img align="left" alt="Twitter" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Ftelegram-logo&psig=AOvVaw0ShaVXbscRxudPuVtP4YIX&ust=1615123105089000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiyqsXgm-8CFQAAAAAdAAAAABAD" />
 </a>
