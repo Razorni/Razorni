@@ -12,6 +12,6 @@ If you need a Developer then you know what to do.
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<a href="https://twitter.com/mvnRazorni">
+<a href="https://telegram.me/razorni">
   <img align="left" alt="Telegram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" />
 </a>
