@@ -6,7 +6,7 @@ Everything I know is self taught, growing my knowledge and understanding every d
 
 If you need a Developer then you know what to do.
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=razorni&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true" alt="Razorni Stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=razorni&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true" alt="Razorni Stats" />
 
 <a href="https://twitter.com/mvnRazorni">
   <img align="left" alt="Twitter" width="21px" src="https://static.namemc.com/i/service/twitter.svg" />
