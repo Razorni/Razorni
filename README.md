@@ -9,14 +9,20 @@ If you need a Developer then you know what to do.
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=razorni&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true" alt="Razorni Stats" />
 
 <a href="https://twitter.com/mvnRazorni">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="21px" src="https://static.namemc.com/i/service/twitter.svg" />
 </a>
 
 <a href="https://telegram.me/razorni">
-  <img align="left" alt="Telegram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" />
+  <img align="left" alt="Telegram" width="21px" src="https://static.namemc.com/i/service/telegram.svg" />
 </a>
 
 <a href="https://dsc.bio/razornidev">
-  <img align="left" alt="Discord" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" />
+  <img align="left" alt="Discord" width="21px" src="https://static.namemc.com/i/service/discord.svg" />
 </a>
+
+<a href="https://dsc.bio/razornidev">
+  <img align="left" alt="GitHub" width="21px" src="https://static.namemc.com/i/service/github.svg />
+</a>
+
+
 
