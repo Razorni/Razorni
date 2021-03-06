@@ -13,5 +13,5 @@ If you need a Developer then you know what to do.
 </a>
 
 <a href="https://twitter.com/mvnRazorni">
-  <img align="left" alt="Telegram" width="21px" src="https://assets.stickpng.com/images/5842a8fba6515b1e0ad75b03.png" />
+  <img align="left" alt="Telegram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png" />
 </a>
