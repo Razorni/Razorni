@@ -21,7 +21,7 @@ If you need a Developer then you know what to do.
 </a>
 
 <a href="https://dsc.bio/razornidev">
-  <img align="left" alt="GitHub" width="21px" src="https://static.namemc.com/i/service/github.svg />
+  <img align="left" alt="GitHub" width="21px" src="https://static.namemc.com/i/service/github.svg" />
 </a>
 
 
