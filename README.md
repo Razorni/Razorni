@@ -20,9 +20,5 @@ If you need a Developer then you know what to do.
   <img align="left" alt="Discord" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" />
 </a>
 
-<a href="https://github.com/Razorni">
-  <img align="left" alt="GitHub" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
-</a>
-
 
 
