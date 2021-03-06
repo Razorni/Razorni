@@ -11,3 +11,7 @@ If you need a Developer then you know what to do.
 <a href="https://twitter.com/mvnRazorni">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+
+<a href="https://twitter.com/mvnRazorni">
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/telegram.svg" />
+</a>
