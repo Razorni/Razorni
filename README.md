@@ -1,6 +1,6 @@
 ### ✨ Developer | Serbia ✨
 
-Several years experience in: Java, Redis, MongoDB, MySQL, Maven, Bukkit API and PostgreeSQL. I enjoy doing it as a little side project to help those who need it.
+Several years experience in: Java, Redis, MongoDB, MySQL, Maven, Git, Bukkit API and PostgreeSQL. I enjoy doing it as a little side project to help those who need it.
 
 Everything I know is self taught, growing my knowledge and understanding every day.
 
